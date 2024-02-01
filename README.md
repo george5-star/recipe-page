@@ -13,13 +13,11 @@
   - [Useful resources](#useful-resources)
 - [Author](#author)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
 ## Overview
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![Project Screenshot](./src/assets/images/project-screenshot.png)
 
 ### Links
 
@@ -33,18 +31,25 @@
 - Semantic HTML5 markup
 - Mobile-first workflow
 - [React](https://reactjs.org/) - JS library
+- [React](https://tailwindcss.com/) - Tailwind CSS
+- [React](https://typescriptlang.org/) - TypeScript
 
 ### What I learned
 
+Tailwind concepts.
+Typescript concepts.
+React concepts.
+
 ### Continued development
+
+React, TypeScript, Tailwind.
 
 ### Useful resources
 
-- [Example resource 1](https://www.example.com) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
-- [Example resource 2](https://www.example.com) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
+- [Tailwind Docs](https://www.tailwindcss.com/docs) - This is the official tailwind docs I used for referencing.
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Website - [www.georgeasiedu.tech](https://www.georgeasiedu.tech)
+- Frontend Mentor - [@george5-star](https://www.frontendmentor.io/profile/george5-star)
+- Twitter - [@george5_star](https://www.twitter.com/george5_star)
