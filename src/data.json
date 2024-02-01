@@ -1,0 +1,35 @@
+{
+  "ingredients": [
+    "2-3 large eggs",
+    "Salt, to taste",
+    "Pepper, to taste",
+    "1 tablespoon of butter or oil",
+    "Optional fillings: cheese, diced vegetables, cooked meats, herbs"
+  ],
+  "instructions": [
+    {
+      "name": "Beat the eggs: ",
+      "description": "In a bowl, beat the eggs with a pinch of salt and pepper until they are well mixed. You can add a tablespoon of water or milk for a fluffier texture."
+    },
+    {
+      "name": "Heat the pan: ",
+      "description": "Place a non-stick frying pan over medium heat and add butter or oil."
+    },
+    {
+      "name": "Cook the omelette",
+      "description": "Once the butter is melted and bubbling, pour in the eggs. Tilt the pan to ensure the eggs evenly coat the surface."
+    },
+    {
+      "name": "Add fillings (optional):",
+      "description": "When the eggs begin to set at the edges but are still slightly runny in the middle, sprinkle your chosen fillings over one half of the omelette."
+    },
+    {
+      "name": "Remove the eggs from heat: ",
+      "description": "Remove the eggs from the heat when they are still slightly wetter than you would like them, as the eggs will continue to cook for a few moments after you remove them from the pan."
+    },
+    {
+      "name": "Serve immediately: ",
+      "description": "Serve the eggs immediately, while they are still soft and creamy."
+    }
+  ]
+}
