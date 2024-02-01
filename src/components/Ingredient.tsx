@@ -6,7 +6,7 @@ const Ingredient = () => {
   ));
   return (
     <>
-      <h2>Ingredient</h2>
+      <h2 className="subheading">Ingredient</h2>
       <ul>{ingredientsLists}</ul>
     </>
   );

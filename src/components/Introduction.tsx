@@ -5,13 +5,15 @@ const Introduction = () => {
   return (
     <>
       <RecipeImage />
-      <h1>Simple Omelette Recipe</h1>
+      <h1 className="text-5xl font-bold text-neutral-dark-charcoal font-serif">
+        Simple Omelette Recipe
+      </h1>
       <p>
         An easy and quick dish, perfect for any meal. This classic omelette
         combines beaten eggs cooked to perfection, optionally filled with your
         choice of cheese, vegetables, or meats.
       </p>
-      <div>
+      <div className="bg-primary-dark-raspberry">
         <h3>Preparation time</h3>
         <ul>
           <li>Total: Approximately 10 minutes</li>

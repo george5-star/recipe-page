@@ -1,3 +1,9 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+@layer components {
+    .subheading {
+        @apply text-3xl font-serif font-bold text-primary-nutmeg my-4;
+    }
+}
