@@ -21,8 +21,8 @@
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Code here](https://github.com/george5-star/recipe-page)
+- Live Site URL: [Live preview](https://recipe-page-zeta.vercel.app/)
 
 ## My process
 
@@ -31,8 +31,8 @@
 - Semantic HTML5 markup
 - Mobile-first workflow
 - [React](https://reactjs.org/) - JS library
-- [React](https://tailwindcss.com/) - Tailwind CSS
-- [React](https://typescriptlang.org/) - TypeScript
+- [TailwindCSS](https://tailwindcss.com/) - Tailwind CSS
+- [TypeScript](https://typescriptlang.org/) - TypeScript
 
 ### What I learned
 
