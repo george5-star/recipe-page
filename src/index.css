@@ -4,6 +4,10 @@
 
 @layer components {
     .subheading {
-        @apply text-3xl font-serif font-bold text-primary-nutmeg my-4;
+        @apply text-3xl font-serif font-bold text-primary-nutmeg mt-3;
+    }
+
+    .border-line {
+        @apply border-b-2 border-neutral-light-grey p-5 mb-10;
     }
 }

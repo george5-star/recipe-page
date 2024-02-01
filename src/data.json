@@ -1,4 +1,18 @@
 {
+  "preparationTime": [
+    {
+      "name": "Total",
+      "value": "Approximately 10 minutes"
+    },
+    {
+      "name": "Preparation",
+      "value": "5 minutes"
+    },
+    {
+      "name": "Cooking",
+      "value": "5 minutes"
+    }
+  ],
   "ingredients": [
     "2-3 large eggs",
     "Salt, to taste",
@@ -16,7 +30,7 @@
       "description": "Place a non-stick frying pan over medium heat and add butter or oil."
     },
     {
-      "name": "Cook the omelette",
+      "name": "Cook the omelette:",
       "description": "Once the butter is melted and bubbling, pour in the eggs. Tilt the pan to ensure the eggs evenly coat the surface."
     },
     {
@@ -24,12 +38,30 @@
       "description": "When the eggs begin to set at the edges but are still slightly runny in the middle, sprinkle your chosen fillings over one half of the omelette."
     },
     {
-      "name": "Remove the eggs from heat: ",
-      "description": "Remove the eggs from the heat when they are still slightly wetter than you would like them, as the eggs will continue to cook for a few moments after you remove them from the pan."
+      "name": "Fold and serve:",
+      "description": "As the omelette continues to cook, carefully lift one edge and fold it over the fillings. Let it cook for another minute, then slide it onto a plate."
     },
     {
-      "name": "Serve immediately: ",
-      "description": "Serve the eggs immediately, while they are still soft and creamy."
+      "name": " Enjoy:",
+      "description": "Serve hot, with additional salt and pepper if needed."
+    }
+  ],
+  "nutrition": [
+    {
+      "name": "Calories",
+      "value": "277kcal"
+    },
+    {
+      "name": "Carbs",
+      "value": "0g"
+    },
+    {
+      "name": "Protein",
+      "value": "20g"
+    },
+    {
+      "name": "Fat",
+      "value": "22g"
     }
   ]
 }
